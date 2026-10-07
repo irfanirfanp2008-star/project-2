@@ -1,3 +1,4 @@
 # project-2
 Html class
-I studied about html basic tags, i used heading tage's and paragraph tage's. And i did barking line and add mark tag and under line, and i learn about how to add imge in browser to  html and i did how to add image in files     
+Hello! Welcome to my repository. I have officially started my web development journey by learning the core fundamentals of HTML (HyperText Markup Language). So far, I have mastered essential text formatting tags like headings (<h1> to <h6>), paragraphs (<p>), bold text (<b> and <strong>), and italics (<i>).
+Additionally, I know how to structure and style content using line breaks (<br>), text highlighting (<mark>), and underlines (<u>). To make my web pages interactive and visually appealing, I have also learned how to embed hyperlinks using the anchor tag (<a>) and insert graphics using the image tag (<img>). This forms a solid foundation, and I am excited to build more complex structures next!
